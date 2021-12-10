@@ -16,4 +16,5 @@ dst[len]='\0' ;//字符串结束标记
 
 return dst;
 }
+
 /*edit*/
